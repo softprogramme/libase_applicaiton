@@ -1,0 +1,11 @@
+.required{font-size: 18px; color: red;}
+.book_column{float: left; width:27%; border: 1px solid #f0f0f0; padding: 15px; text-align: center; margin: 0px 15px 15px 0px; height: 280px;}
+.book_column img{margin-bottom: 15px; max-width: 150px; max-height: 200px; width:100%; height: 100%;}
+.view_details{display: block; border: 1px solid #FF6900; color: #FF6900; width:100px; padding: 5px; margin: 0px auto; margin-top: 15px;}
+.view_details:hover{color: #FF6900;}
+.set_cate_title{color: #FF6900; margin-bottom: 15px; font-weight: bold; font-size: 18px;}
+.btn_style { border: 0px; background: #FF6900; color: #fff; cursor: pointer; text-transform: uppercase; padding: 10px 20px; display: inline-block;}
+.btn_style:hover{color: #fff;}
+.search_form input[type=text]{border: 0px; background: #fff; border-radius: 0px; margin-top: -6px; height: 29px; padding: 0px 10px; text-transform: uppercase; font-size: 12px; width: 160px; }
+.search_form input[type=submit]{border: 0px; cursor: pointer; background: transparent; color: #fff; text-transform: uppercase; }
+.search_form input[type=image]{cursor: pointer; width:30px; float: right; margin: -6px -8px 0px 8px; }
