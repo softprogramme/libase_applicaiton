@@ -1,0 +1,1 @@
+<div class="main_menu footer_content"><?php echo FOOTER_CONTENT; ?> &nbsp; | &nbsp; <?php echo '2016 - ' . date('Y'); ?></div>
