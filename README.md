@@ -4,6 +4,8 @@ Library Application
 ###################################################
 
 Designed and Developed By: Muhammad Safdar
+
+
 Profession: Full Stack PHP Developer
 
 
@@ -16,7 +18,7 @@ Upwork Link: https://www.upwork.com/fl/muhammadsafdar55?viewMode=1
 ----------------------------------------------------
 
 To developed this Library Management Application, I have used
-these languages: PHP, MySQL, HTML, CSS, javaScript, jQuery. and
+these languages: PHP, MySQL, HTML, CSS, javaScript, jQuery.
 I have developed it in Core PHP using OOP approach.
 
 
